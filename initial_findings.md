@@ -1,1 +1,3 @@
+# Initial Findings
 
+(i) We expect the model to perform decently on the test2 set. The potential MSE will be around 2 million based on the MSE that we got from test1 being about 1.5 million. We suspect test2 MSE will be slightly higher because the MSE from test1 may have some potential data leakge from it being used for some feature imputation. The main features driving the model are the size_sqft, bedrooms, bathrooms, encoded_zip, encoded_bor, and encoded_neighborhood, floornumber. They are the key features because they are the ones most correlated with the 'rent' target. The model also used other features like has_concierge, has_washer_dryer, has_gym, and has_doorman because they do show positive correlation with 'rent' but arent as extreme as the other features.

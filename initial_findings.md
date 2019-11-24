@@ -12,4 +12,6 @@
   - With given enough time, we will validate those data we assume "non-sense":
     - Place with 0 bedroom/bathroom.
     - Place is insanely wide > 80000 sqrft.
-    - Place with lost of bathrooms. 
+    - Place with lots of bathrooms. 
+  - We will try to come up with better imputations techniques by revisiting features like floornumber.
+  _ we will try to test linear models like lasso, ridge, and ELastic regressors and their different regularizations methods to try and create predictors that best adjust weights of coefficients.

@@ -49,7 +49,10 @@
 
 ```(d) Create at least one visualization that demonstrates the predictive power of your data.```
 
-- 
+- Before Dropping Outliers:
+ - ![rent_vs_sqft](https://i.gyazo.com/2eb3d18e077bd9eca6d9855b977c3b27.png)
+- After Dropping Outliers:
+ - ![rent_vs_sqft_after](https://i.gyazo.com/6feba016bd4ac849b99b8550b4ed40ca.png)
 
 **3. Transformation and Modeling**
 

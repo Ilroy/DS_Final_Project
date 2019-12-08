@@ -135,6 +135,6 @@ a simple model and improve the regressor once we felt our data was good for trai
 
 
 **References**
-![Modeling Inspiration](https://www.kaggle.com/erick5/predicting-house-prices-with-machine-learning)
+[Modeling Inspiration](https://www.kaggle.com/erick5/predicting-house-prices-with-machine-learning)
 - The above kaggle demo served as inspiration for handling outliers and missing data, it was crucial in visualizing our data
 and general steps when approaching a new dataset

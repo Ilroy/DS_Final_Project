@@ -133,3 +133,8 @@ a simple model and improve the regressor once we felt our data was good for trai
 
 - Because of **Law of Large Number**. We would rather have more data as more feature could prove to just provide "noise" and distract our model from actually useful features. More data would also let our model train better and learn better with more information that would help generalize the data better in a way that isnt heavily influenced by a few outliers.
 
+
+**References**
+![Modeling Inspiration](https://www.kaggle.com/erick5/predicting-house-prices-with-machine-learning)
+- The above kaggle demo served as inspiration for handling outliers and missing data, it was crucial in visualizing our data
+and general steps when approaching a new dataset

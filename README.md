@@ -14,4 +14,6 @@
 3. Important to have up to date anaconda version and install lightgbm and xgboost using the following commands respectively in the anaconda promt.
 - conda install -c conda-forge lightgbm
 - conda install -c conda-forge xgboost
+
+4. The schools dataset was created using the external_testing notebook to clean, impute, feature select the data for exporting.
   

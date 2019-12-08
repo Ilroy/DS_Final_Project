@@ -81,7 +81,12 @@
 
 ```(b) Describe how you are implementing your model. Why do you think this works well?```
 
-- 
+- We are implementing our model's by simply starting from a less complex model to more advanced models until there is no
+more room for improvement. We started with a basic linear regression model and judged our imputations and outlier handling
+using that model as it is the most sensitive to those. Then we introduced basic ensemble methods like random forest and continued
+with hyperparameter tuning. Finally, we moved on to gradient boosting regressors, as they are known to perform better than the
+random nature of forest regressors. We think this worked well as it allowed us to try and better our data for modelling using
+a simple model and improve the regressor once we felt our data was good for training.
 
 ```(c) Describe your methodology for selecting your model. Why do you think this type of model works well?```
 
@@ -110,7 +115,7 @@
 
 ```(d) Create at least one visualization that demonstrates the predictive power of your model.```
 
-- 
+- [![Image from Gyazo](https://i.gyazo.com/30bcdf6d33944feb4412d8dca66b183e.png)](https://gyazo.com/30bcdf6d33944feb4412d8dca66b183e)
 
 **5. Conclusion**
 

@@ -95,14 +95,15 @@
 - 
 
 **5. Conclusion**
+
 ```(a) How would you use this model?```
 
 - 
 
 ```(b) If you could have additional modeling features, what would they be?```
 
-- 
+- We would like to have ethic and racial data of tenants. Because humans tends to live within areas they feel comfortable, and the `rent` prices depend heavily on that.
 
 ```(c) Would you rather have more data, or more features?```
 
-- 
+- Because of **Law of Large Number**, we would like to have more data to work with.
